@@ -1,0 +1,17 @@
+[user]
+    name = Alessandro Polidori
+    email = alessandro.polidori@gmail.com
+[color]
+    diff = auto
+    branch = auto
+    interactive = auto
+    status = auto
+    ui = true
+    config = auto
+[core]
+    editor = vim
+[alias]
+    co = checkout
+    st = status
+    br = branch
+    ci = commit
