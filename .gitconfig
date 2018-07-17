@@ -15,3 +15,5 @@
     st = status
     br = branch
     ci = commit
+[push]
+    followTags = true
