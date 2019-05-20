@@ -15,8 +15,8 @@
     st = status
     br = branch
     ci = commit
-    pu = pull origin master
-    up = remote update
+    pu = pull -r origin master
+    up = remote update --prune
     fe = fetch --all
 [push]
     followTags = true
