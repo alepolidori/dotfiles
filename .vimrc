@@ -8,3 +8,4 @@ set shiftwidth=2
 set softtabstop=2
 set smartindent
 set pastetoggle=<F2>
+set number
