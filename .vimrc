@@ -9,3 +9,5 @@ set softtabstop=2
 set smartindent
 set pastetoggle=<F2>
 set number
+filetype plugin indent on
+syntax on
